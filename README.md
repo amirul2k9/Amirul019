@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reinforcement learning for wireless communications.
 - 🌱 I’m currently learning RL optimization.
 - 💞️ I’m looking to collaborate on RL and Python.
-- 📫 How to reach me ...
+- 📫 How to reach me amirul.islam@essex.ac.uk
 
 <!---
 Amirul019/Amirul019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
