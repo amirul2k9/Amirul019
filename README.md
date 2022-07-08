@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amirul
-- 👀 I’m interested in Reinforcement learning for wireless communications.
+- 👀 I’m interested in machine learning for wireless communications.
 - 🌱 I’m currently learning RL optimization.
 - 💞️ I’m looking to collaborate on RL and Python.
 - 📫 How to reach me amirul.islam@essex.ac.uk
